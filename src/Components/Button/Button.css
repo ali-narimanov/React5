@@ -1,0 +1,17 @@
+.btn1 {
+    background-color: aliceblue;
+    color: black;
+    border: solid grey 3px;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.btn2{
+    background-color: blue;
+    color: white;
+    border: solid grey 3px;
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+}
